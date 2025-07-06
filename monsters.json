@@ -4,6 +4,8 @@
     "appearType": "none",
     "speed": 75,
     "imageId": "rbxassetid://0",
+    "distantSound": "rbxassetid://0",
+    "closeSound": "rbxassetid://0",
     "sequence": [
       "walk",
       "remove"
