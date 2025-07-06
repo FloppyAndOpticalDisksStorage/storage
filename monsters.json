@@ -1,0 +1,12 @@
+[
+  {
+    "name": "template",
+    "appearType": "none",
+    "speed": 75,
+    "imageId": "rbxassetid://0",
+    "sequence": [
+      "walk",
+      "remove"
+    ]
+  }
+]
