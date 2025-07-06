@@ -7,7 +7,9 @@
     "distantSound": "rbxassetid://0",
     "closeSound": "rbxassetid://0",
     "sequence": [
+      "up",
       "walk",
+      "down",
       "remove"
     ]
   }
